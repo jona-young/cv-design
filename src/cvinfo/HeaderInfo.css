@@ -1,0 +1,26 @@
+.headerinfo {
+    margin-top: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: 8vw;
+    width: 100%;
+    background-color: rgb(222, 223, 224);
+    text-align: left;
+
+}
+
+.headerinfo__title {
+    margin:0;
+    font-family: 'Castoro', serif;
+    font-size: 4.5vw;
+    padding-left: 5%;
+
+}
+
+.headerinfo__subtitle {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.2vw;
+    padding-left: 5%;
+}

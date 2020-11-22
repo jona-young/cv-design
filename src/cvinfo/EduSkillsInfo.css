@@ -1,0 +1,13 @@
+.eduskills {
+    padding: 10%;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+}
+
+.circle {
+    width: 12vw;
+    height: 12vw;
+    border-radius: 6vw;
+    margin: 25% auto 15%;
+    background: black;
+}
