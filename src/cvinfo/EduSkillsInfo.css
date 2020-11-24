@@ -1,6 +1,5 @@
 .eduskills {
     padding: 10%;
-    font-family: 'Open Sans', sans-serif;
     text-align: left;
 }
 
@@ -10,4 +9,38 @@
     border-radius: 6vw;
     margin: 25% auto 15%;
     background: black;
+}
+
+.eduskills__contact {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1vw;
+}
+
+.eduskills__education {
+    margin-top: 2vw;
+}
+
+.eduskills__title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3vw;
+    font-weight: 800;
+}
+
+.eduskills__major {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1vw;
+    font-weight: 700;
+    margin-bottom: 0.5vw;
+}
+
+.eduskills__school {
+    margin-top: 0.5vw;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1vw;
+    font-weight: 400;
+}
+
+.eduskills__keys {
+    margin-top: 2vw;
+
 }
